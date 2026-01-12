@@ -1,47 +1,59 @@
-# Business — Generative Engine Optimization Map
+# DUDAI — Generative Engine Optimization Map
+
+> A AI Creative Services / Marketing Technology business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://dudai.zappy5.app
 Discover expert integrated audio video solutions that deliver real results. Transform your creative vision with AI-powered design technology.
 
 ### Services
-https://example.com/services
+https://dudai.zappy5.app/services
 Professional audio video designs services powered by AI technology. From video production to brand storytelling and marketing intelligence.
 
 ### About
-https://example.com/about
+https://dudai.zappy5.app/about
 Learn about DUDAI's mission to revolutionize creative production through AI technology. Discover our story and commitment to excellence.
 
 ### Contact
-https://example.com/contact
+https://dudai.zappy5.app/contact
 Contact DUDAI for integrated audio video solutions. Get in touch with our team to discuss your creative project and discover AI-powered production.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://dudai.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://dudai.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://dudai.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About DUDAI
+DUDAI is a business in the AI Creative Services / Marketing Technology industry.
+
+## Target Audience
+- Creative Agency Directors
+- Digital Marketing Leads
+- Fashion Brand Managers
+
+## Industry
+AI Creative Services / Marketing Technology
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://dudai.zappy5.app/sitemap.xml
+- **Robots.txt**: https://dudai.zappy5.app/robots.txt
